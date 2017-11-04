@@ -20,7 +20,7 @@ coins = ['https://www.btcmarkets.net/data/market/BTCMarkets/ETH/AUD/tick',
 	'https://www.btcmarkets.net/data/market/BTCMarkets/BTC/AUD/tick']
 
 	
-precision = {'BTC':100000000,'LTC':100000000,'XRP':100000,'ETH':100000000}
+precision = {'BTC':100000000,'LTC':100000000,'XRP':100000000,'ETH':100000000}
 	
 locale.setlocale( locale.LC_ALL, '' )	
 	
